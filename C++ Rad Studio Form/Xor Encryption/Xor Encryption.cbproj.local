@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.000,C:\Users\root\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\root\Documents\Embarcadero\Studio\sifrele\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.924,C:\Users\root\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\root\Documents\Embarcadero\Studio\sifrele\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.634,=C:\Users\root\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.119,C:\Users\root\Desktop\sifrele\Project1.cbproj=C:\Users\root\Desktop\sifrele\Xor Encryption.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,C:\Users\root\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\root\Documents\Embarcadero\Studio\sifrele\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,C:\Users\root\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\root\Documents\Embarcadero\Studio\sifrele\main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.106,C:\Users\root\Desktop\sifrele\Project1PCH1.h=C:\Users\root\Desktop\sifrele\Xor EncryptionPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.707,=C:\Users\root\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,C:\Users\root\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\root\Documents\Embarcadero\Studio\sifrele\main.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
