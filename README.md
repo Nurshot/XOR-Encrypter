@@ -46,7 +46,7 @@ These use cases demonstrate the versatility and importance of the XOR algorithm 
 If you want to try it out, you can download and use the form written with Rad Studio from the Release section in GitHub.
 
 ## Gui
-![XOR Encrypter Screenshot](https://github.com/Nurshot/XOR-Encrypter/raw/main/screenshot.png)
+![XOR Encrypter Screenshot](https://github.com/Nurshot/XOR-Encrypter/raw/main/screenshott.png)
 
 
 ## License
